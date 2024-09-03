@@ -1,0 +1,13 @@
+SELECT
+	ProductName,
+	Category
+FROM
+	Products
+LEFT JOIN
+	ProductsCategories ON Products.ProductID = ProductsCategories.ProductID
+LEFT JOIN
+	Categories ON ProductsCategories.CategoryID = Category.CategoryID
+
+Products - таблица продуктов
+Categories - таблица категорий
+ProductsCategories - таблица, связывающая таблицы Products и Categories
