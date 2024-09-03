@@ -1,0 +1,14 @@
+D:\MVSprojects\CSharpProjects\Geometry\bin\Debug\net8.0\Geometry.exe
+D:\MVSprojects\CSharpProjects\Geometry\bin\Debug\net8.0\Geometry.deps.json
+D:\MVSprojects\CSharpProjects\Geometry\bin\Debug\net8.0\Geometry.runtimeconfig.json
+D:\MVSprojects\CSharpProjects\Geometry\bin\Debug\net8.0\Geometry.dll
+D:\MVSprojects\CSharpProjects\Geometry\bin\Debug\net8.0\Geometry.pdb
+D:\MVSprojects\CSharpProjects\Geometry\obj\Debug\net8.0\Geometry.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVSprojects\CSharpProjects\Geometry\obj\Debug\net8.0\Geometry.AssemblyInfoInputs.cache
+D:\MVSprojects\CSharpProjects\Geometry\obj\Debug\net8.0\Geometry.AssemblyInfo.cs
+D:\MVSprojects\CSharpProjects\Geometry\obj\Debug\net8.0\Geometry.csproj.CoreCompileInputs.cache
+D:\MVSprojects\CSharpProjects\Geometry\obj\Debug\net8.0\Geometry.dll
+D:\MVSprojects\CSharpProjects\Geometry\obj\Debug\net8.0\refint\Geometry.dll
+D:\MVSprojects\CSharpProjects\Geometry\obj\Debug\net8.0\Geometry.pdb
+D:\MVSprojects\CSharpProjects\Geometry\obj\Debug\net8.0\Geometry.genruntimeconfig.cache
+D:\MVSprojects\CSharpProjects\Geometry\obj\Debug\net8.0\ref\Geometry.dll

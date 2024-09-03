@@ -1,0 +1,11 @@
+D:\MVSprojects\CSharpProjects\Geometry.Library\bin\Debug\net8.0\Geometry.Library.deps.json
+D:\MVSprojects\CSharpProjects\Geometry.Library\bin\Debug\net8.0\Geometry.Library.dll
+D:\MVSprojects\CSharpProjects\Geometry.Library\bin\Debug\net8.0\Geometry.Library.pdb
+D:\MVSprojects\CSharpProjects\Geometry.Library\obj\Debug\net8.0\Geometry.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVSprojects\CSharpProjects\Geometry.Library\obj\Debug\net8.0\Geometry.Library.AssemblyInfoInputs.cache
+D:\MVSprojects\CSharpProjects\Geometry.Library\obj\Debug\net8.0\Geometry.Library.AssemblyInfo.cs
+D:\MVSprojects\CSharpProjects\Geometry.Library\obj\Debug\net8.0\Geometry.Library.csproj.CoreCompileInputs.cache
+D:\MVSprojects\CSharpProjects\Geometry.Library\obj\Debug\net8.0\Geometry.Library.dll
+D:\MVSprojects\CSharpProjects\Geometry.Library\obj\Debug\net8.0\refint\Geometry.Library.dll
+D:\MVSprojects\CSharpProjects\Geometry.Library\obj\Debug\net8.0\Geometry.Library.pdb
+D:\MVSprojects\CSharpProjects\Geometry.Library\obj\Debug\net8.0\ref\Geometry.Library.dll
